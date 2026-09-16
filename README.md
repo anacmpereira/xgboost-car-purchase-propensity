@@ -54,6 +54,7 @@ A análise de correlação indicou que as variáveis com maior correlação com 
 Ambas apresentaram correlação positiva com a variável-alvo, sendo `Age` a variável com maior relação linear observada na análise.
 
 > A correlação foi utilizada como etapa exploratória e não representa, por si só, causalidade ou a importância das variáveis no modelo.
+> ![Matriz de correlação](images/matriz_correlacao.png)
 
 ## Modelo XGBoost
 
